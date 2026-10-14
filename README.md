@@ -14,7 +14,7 @@ Hỗ trợ kết nối và sáng tạo.
 !Infographic về lợi ích của công nghệ số với AI
 5. Nguồn và bản quyền
 Công cụ thiết kế: Canva AI 
-Nguồn hình ảnh: Unsplash. Liên kết từng ảnh:https://unsplash.com/photos/young-woman-wearing-headphones-studying-at-desk-Imz-pn2LMbg
+Nguồn hình ảnh: Unsplash. Liên kết ảnh:https://unsplash.com/photos/young-woman-wearing-headphones-studying-at-desk-Imz-pn2LMbg
 Giấy phép infographic: CC BY 4.0 đối với phần nội dung và thiết kế do người thực hiện sở hữu; không áp dụng cho tài nguyên bên thứ ba có giấy phép riêng.
 6. Giấy phép Creative Commons
 Creative Commons Attribution 4.0 International (CC BY 4.0)
